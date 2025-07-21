@@ -1,9 +1,3 @@
-## Demo Video
-https://www.youtube.com/watch?v=2gbiS_S7kPQ
-
-## Klinik backend repository 
-https://github.com/IslamTaleb11/klinik-laravel-api
-
 ## Klinik Vue.js Frontend
 ### Overview
 Klinik Vue.js Frontend is the user interface for the Klinik system, a comprehensive clinic management solution. Built using Vue.js 3, this frontend application integrates seamlessly with the Klinik Laravel API to deliver an intuitive and responsive experience for managing clinic operations, including appointments, schedules, patient records, and more.
@@ -61,4 +55,3 @@ http://localhost:8000/api/documentation
 
 ## ⭐ Give It a Star!
 If you found this project helpful or interesting, please give it a star on GitHub! It helps others discover the project and motivates us to keep improving it. 🌟  
-[Click here to star the repository!](https://github.com/IslamTaleb11/klinik-vuejs)  
